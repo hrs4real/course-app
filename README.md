@@ -1,6 +1,6 @@
 # Course-app(Backend Project)
 
-This is an Course application built using Python FastAPI.
+This is an Course application built using Python FastAPI, according to the given assignment. (https://github.com/hrs4real/course-app/blob/main/Apt%20Coder%20BACK-END%20Assignment.pdf)
 
 ## Overview
 
